@@ -15,3 +15,10 @@ The graph is displayed on a VGA Monitor as shown in Figure below, The user can e
 ## References
 <a id="1">[1]</a> 
 S. Zhou, et al., "Accelerating Large-Scale Single-Source Shortest Path on FPGA," IEEE International Parallel and Distributed Processing Symposium Workshop, 2015, pp. 129-136, 2015.
+
+## Team Members
+
+Arjun Raj
+Aswathi E
+Nikhil Ajith
+Robin James Payyappillil
