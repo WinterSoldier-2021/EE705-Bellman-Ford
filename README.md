@@ -18,7 +18,7 @@ S. Zhou, et al., "Accelerating Large-Scale Single-Source Shortest Path on FPGA,"
 
 ## Team Members
 
-Arjun Raj
-Aswathi E
-Nikhil Ajith
-Robin James Payyappillil
+Arjun Raj  
+Aswathi E  
+Nikhil Ajith  
+Robin James Payyappillil  
